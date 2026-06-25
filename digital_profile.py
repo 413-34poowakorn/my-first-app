@@ -1,4 +1,4 @@
-import stremlit as th
+import stremlit as st
 
 
 st.title(" My digital Profile")
