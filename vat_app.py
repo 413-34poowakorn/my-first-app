@@ -1,5 +1,5 @@
 import stremlit as st
-st.tle(“แอปพลิเคชั่นคำนวณราคาสินค้ารวมvat7%”) 
+st.title("แอปพลิเคชันคำนวณราคาสินค้ารวม VAT 7%") 
 price = st.number_input(“กรอกราคาสินค้า (บาท):”,value=0.0)
 vat = price * p0.07
 net_price = price - vet
